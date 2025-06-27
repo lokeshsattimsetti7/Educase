@@ -18,4 +18,4 @@ Step-by-step solution rendering using getCubeSvg() for easy visualization
 
 🔁 Note: The solving steps and cube states are rendered live, so you can follow each move visually.
 
-🖥️ View Live: educase-git-main-lokeshsattimsetti7s-projects.vercel.app
+🖥️ View Live: [educase-git-main-lokeshsattimsetti7s-projects.vercel.app/](educase-git-main-lokeshsattimsetti7s-projects.vercel.app/)
